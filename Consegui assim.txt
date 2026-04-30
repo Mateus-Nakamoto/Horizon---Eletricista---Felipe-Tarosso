@@ -1,0 +1,7 @@
+Consegui assim:
+
+
+cd apps/web
+
+npx vite build
+
